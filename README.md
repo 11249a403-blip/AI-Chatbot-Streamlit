@@ -55,31 +55,3 @@ Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya
 🙏 Acknowledgments
 Thank you for checking out this project!
 
-yaml
-Copy code
-
----
-
-### What to do next:  
-1. Copy the markdown above.  
-2. In your GitHub repository:  
-   - Click **Add file → Create new file**  
-   - Name it `README.md`  
-   - Paste the content  
-   - Scroll down and commit the file  
-
-Once done, your repository will have a professional README.
-
-Would you like me to also generate `requirements.txt` for your project (listing exact library versions)?
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can mak
