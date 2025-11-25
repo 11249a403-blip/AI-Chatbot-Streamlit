@@ -1,0 +1,12 @@
+streamlit
+openai
+requests
+tqdm
+typing-extensions
+pydantic
+protobuf
+cachetools
+click
+tornado
+packaging
+toml
